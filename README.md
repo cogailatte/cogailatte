@@ -5,9 +5,11 @@
 
 ---
 
-## ✨ Multi-talented assistant from Vietnam
+## ⚡ Multi-talented assistant from Vietnam
 
-<img src="https://thanhthiennguyen.com/wp-content/uploads/2023/11/thanh-thien-avatar-1.jpg.webp" align="center" width="80px"  alt="Nguyễn Thanh Thiên">
+<img src="https://thanhthiennguyen.com/wp-content/uploads/2024/04/thanh-thien-avatar-1-1.jpg.webp" align="center" width="80px"  alt="Nguyễn Thanh Thiên">
+
+<p>If you're searching for a multi-skilled assistant capable of bringing dynamic solutions to your team, then your search may end here. It's a pleasure to make your acquaintance, and I am excited to share more about how my expertise could contribute to our mutual success. </p>
 
 ### 🌟 A curious case of Thanh-Thien Nguyen
 
@@ -35,25 +37,24 @@ me.introduce()
 
 | 💻 | 🚀 |
 | - | - |
-| **Language** | `Vietnamese`, `English`, `Chinese` |
-| **Progamming Language** | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](#) |
-| **Technologies** | [![Wordpress](https://img.shields.io/static/v1?label=&message=Wordpress&color=3776AB&logo=Wordpress&logoColor=FFFFFF)](#) |
+| **Languages** | [![Vietnamese](https://img.shields.io/static/v1?label=&message=Vietnamese&color=594560)](#) [![English](https://img.shields.io/static/v1?label=&message=English&color=594560)](#) [![Chinese](https://img.shields.io/static/v1?label=&message=Chinese&color=594560)](#) |
+| **Progamming Languages**  | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=594560&logo=Python&logoColor=FFFFFF)](#) [![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=594560)](#) |
+| **Technologies** | [![Wordpress](https://img.shields.io/static/v1?label=&message=Wordpress&color=594560&logo=Wordpress&logoColor=FFFFFF)](#) |
+| **Design Tools** | [![Photoshop](https://img.shields.io/static/v1?label=&message=Photoshop&color=594560&logo=AdobePhotoshop&logoColor=FFFFFF)](#) [![Canva](https://img.shields.io/static/v1?label=&message=Canva&color=594560&logo=Canva&logoColor=FFFFFF)](#) [![Capcut](https://img.shields.io/static/v1?label=&message=Capcut&color=594560)](#) |
 
 ---
 
 ## ⚡ 5 years a corporate slave
 
 ### ✨ How I Work
-Lorem ipsum
+Over four years working as an assistant to the CEO, I have excelled in supporting senior management with operations, project management, and data analytics, earning the 'Employee of the Year' title three times in a row since 2020. My diverse skills extend into digital marketing, where I specialize in content creation, SEO, website design & development. What sets me apart is my unwavering dedication - meticulous, driven, and supportive, always ready to collaborate and tackle problems head-on. Rapid learning and high-speed knowledge assimilation are part of my DNA, propelling teams toward shared success with my critical thinking and effective documentation.
 
 ### ✨ Highlighted Projects
-- Lorem ipsum
-
 For more, check out [my portfolio](https://thanhthiennguyen.com/portfolio).
 
 ---
 
-## ✨ Growing up activist
+## ⚡ Growing up activist
 - [Một Cái Chảo](https://motcaichao.com) (Founder) : an LGBT+ organization in Vietnam
 - [Trans Girl VN](https://motcaichao.com) (Director of Operations): a transwoman community in Vietnam
 
