@@ -35,12 +35,17 @@ me.introduce()
 
 ### 🛠 Everything everywhere all at once
 
-| 💻 | 🚀 |
+| **Category** | **Skills** |
 | - | - |
 | **Languages** | [![Vietnamese](https://img.shields.io/static/v1?label=&message=Vietnamese&color=594560)](#) [![English](https://img.shields.io/static/v1?label=&message=English&color=594560)](#) [![Chinese](https://img.shields.io/static/v1?label=&message=Chinese&color=594560)](#) |
 | **Progamming Languages**  | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=594560&logo=Python&logoColor=FFFFFF)](#) [![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=594560)](#) |
-| **Technologies** | [![Wordpress](https://img.shields.io/static/v1?label=&message=Wordpress&color=594560&logo=Wordpress&logoColor=FFFFFF)](#) |
-| **Design Tools** | [![Photoshop](https://img.shields.io/static/v1?label=&message=Photoshop&color=594560&logo=AdobePhotoshop&logoColor=FFFFFF)](#) [![Canva](https://img.shields.io/static/v1?label=&message=Canva&color=594560&logo=Canva&logoColor=FFFFFF)](#) [![Capcut](https://img.shields.io/static/v1?label=&message=Capcut&color=594560)](#) |
+| **BI Tools** | [![PowerBI](https://img.shields.io/static/v1?label=&message=PowerBI&color=594560&logo=PowerBI&logoColor=FFFFFF)](#) [![Looker](https://img.shields.io/static/v1?label=&message=Looker&color=594560&logo=Looker&logoColor=FFFFFF)](#) [![GoogleSheets](https://img.shields.io/static/v1?label=&message=Sheets&color=594560&logo=GoogleSheets&logoColor=FFFFFF)](#) |
+| **Diagrams / Design** | [![Photoshop](https://img.shields.io/static/v1?label=&message=Photoshop&color=594560&logo=AdobePhotoshop&logoColor=FFFFFF)](#) [![Canva](https://img.shields.io/static/v1?label=&message=Canva&color=594560&logo=Canva&logoColor=FFFFFF)](#) [![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=594560&logo=Figma&logoColor=FFFFFF)](#) [![Diagrams](https://img.shields.io/static/v1?label=&message=Diagrams&color=594560&logo=Diagrams.net&logoColor=FFFFFF)](#) |
+| **Video Editor** | [![Premiere](https://img.shields.io/static/v1?label=&message=Premiere&color=594560&logo=AdobePremierePro&logoColor=FFFFFF)](#) [![Capcut](https://img.shields.io/static/v1?label=&message=Capcut&color=594560)](#) |
+| **CMS** | [![Wordpress](https://img.shields.io/static/v1?label=&message=Wordpress&color=594560&logo=Wordpress&logoColor=FFFFFF)](#) |
+| **Front-end** | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=594560&logo=HTML&logoColor=FFFFFF)](#) [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=594560&logo=CSS&logoColor=FFFFFF)](#) |
+| **AI Tools** | [![Coze](https://img.shields.io/static/v1?label=&message=Coze&color=594560&logo=Coze&logoColor=FFFFFF)](#) [![ChatGPT](https://img.shields.io/static/v1?label=&message=ChatGPT&color=594560&logo=ChatGPT&logoColor=FFFFFF)](#) |
+
 
 ---
 
